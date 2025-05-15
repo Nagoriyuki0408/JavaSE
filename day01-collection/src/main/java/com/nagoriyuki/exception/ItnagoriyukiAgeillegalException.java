@@ -5,14 +5,11 @@ package com.nagoriyuki.exception;
  * 2. 重写Exception的构造器
  * 3. 哪里需要用这个异常返回，哪里就throw
  */
-public class ItnagoriyukiAgeillegalException {
+public class ItnagoriyukiAgeillegalException extends Exception {
     public ItnagoriyukiAgeillegalException() {
     }
     public ItnagoriyukiAgeillegalException(String message) {
         super(message);
     }
 
-    public String getMessage() {
-        return super.getClass();
-    }
 }

@@ -1,4 +1,4 @@
-package com.nagoriyuki.exception;
+package com.nagoriyuki.demo1exception;
 /**
  * 自定义的编译时异常
  * 1. 继承Exception做爸爸

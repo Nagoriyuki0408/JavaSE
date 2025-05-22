@@ -1,4 +1,4 @@
-package com.nagoriyuki.exception;
+package com.nagoriyuki.demo1exception;
 /*
 * 自定义运行时异常
 * 继承RuntimeException做爸爸

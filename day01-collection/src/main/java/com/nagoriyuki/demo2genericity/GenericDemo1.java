@@ -1,4 +1,6 @@
-package com.nagoriyuki.genericity;
+package com.nagoriyuki.demo2genericity;
+
+import java.util.ArrayList;
 
 public class GenericDemo1 {
     public static void main(String[] args) {

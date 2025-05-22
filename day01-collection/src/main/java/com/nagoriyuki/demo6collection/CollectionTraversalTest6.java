@@ -67,6 +67,8 @@ public class CollectionTraversalTest6 {
             }
         }
         System.out.println(list4);
+
+
     }
 
 }

@@ -1,4 +1,4 @@
-package com.nagoriyuki.exception;
+package com.nagoriyuki.demo1exception;
 
 public class ExceptionDemo2 {
     public static void main(String[] args) throws Exception {

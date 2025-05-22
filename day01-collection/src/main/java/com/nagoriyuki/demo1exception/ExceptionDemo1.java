@@ -1,4 +1,4 @@
-package com.nagoriyuki.exception;
+package com.nagoriyuki.demo1exception;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

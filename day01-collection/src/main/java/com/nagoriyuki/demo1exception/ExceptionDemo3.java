@@ -1,4 +1,4 @@
-package com.nagoriyuki.exception;
+package com.nagoriyuki.demo1exception;
 
 public class ExceptionDemo3 {
     public static void main(String[] args) throws ItnagoriyukiAgeillegalException { // 声明 main 方法可能抛出异常

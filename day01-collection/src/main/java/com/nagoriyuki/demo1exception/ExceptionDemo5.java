@@ -1,9 +1,7 @@
-package com.nagoriyuki.exception;
+package com.nagoriyuki.demo1exception;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.InputStream;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
